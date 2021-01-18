@@ -1,2 +1,2 @@
 # portafolio
-portafolio kevin mosquera programador jr ecuador
+portafolio kevin mosquera programador ecuador
