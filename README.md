@@ -1,2 +1,2 @@
 # portafolio
-portafolio kevin mosquera programador ecuador ec
+portafolio kevin mosquera programador ecuador ec update
